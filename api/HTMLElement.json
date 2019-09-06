@@ -3,6 +3,10 @@
     "HTMLElement": {
       "__compat": {
         "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLElement",
+        "spec_url": [
+          "https://drafts.csswg.org/cssom-view/#extensions-to-the-htmlelement-interface",
+          "https://html.spec.whatwg.org/multipage/elements.html#htmlelement"
+        ],
         "support": {
           "chrome": {
             "version_added": "1"
@@ -97,6 +101,7 @@
       "accessKeyLabel": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLElement/accessKeyLabel",
+          "spec_url": "https://html.spec.whatwg.org/multipage/interaction.html#dom-accesskeylabel",
           "support": {
             "chrome": {
               "version_added": false
@@ -146,6 +151,7 @@
         "__compat": {
           "description": "<code>animationcancel</code> event",
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLElement/animationcancel_event",
+          "spec_url": "https://drafts.csswg.org/css-animations/#eventdef-animationevent-animationcancel",
           "support": {
             "chrome": {
               "version_added": false
@@ -225,6 +231,7 @@
         "__compat": {
           "description": "<code>animationend</code> event",
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLElement/animationend_event",
+          "spec_url": "https://drafts.csswg.org/css-animations/#eventdef-animationevent-animationend",
           "support": {
             "chrome": {
               "version_added": "43"
@@ -274,6 +281,7 @@
         "__compat": {
           "description": "<code>animationiteration</code> event",
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLElement/animationiteration_event",
+          "spec_url": "https://drafts.csswg.org/css-animations/#eventdef-animationevent-animationiteration",
           "support": {
             "chrome": {
               "version_added": "43"
@@ -323,6 +331,7 @@
         "__compat": {
           "description": "<code>animationstart</code> event",
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLElement/animationstart_event",
+          "spec_url": "https://drafts.csswg.org/css-animations/#eventdef-animationevent-animationstart",
           "support": {
             "chrome": {
               "version_added": "43"
@@ -479,6 +488,7 @@
       "beforeinput_event": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLElement/beforeinput_event",
+          "spec_url": "https://w3c.github.io/uievents/#event-type-beforeinput",
           "description": "<code>beforeinput</code> event",
           "support": {
             "chrome": {
@@ -542,6 +552,7 @@
       "blur": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLOrForeignElement/blur",
+          "spec_url": "https://html.spec.whatwg.org/multipage/editing.html#dom-blur",
           "support": {
             "chrome": {
               "version_added": "1"
@@ -590,6 +601,7 @@
       "click": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLElement/click",
+          "spec_url": "https://html.spec.whatwg.org/multipage/interaction.html#dom-click",
           "description": "click()",
           "support": {
             "chrome": {
@@ -651,6 +663,7 @@
       "contentEditable": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLElement/contentEditable",
+          "spec_url": "https://html.spec.whatwg.org/multipage/interaction.html#contenteditable",
           "support": {
             "chrome": {
               "version_added": "1"
@@ -752,6 +765,7 @@
       "dataset": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLOrForeignElement/dataset",
+          "spec_url": "https://html.spec.whatwg.org/multipage/dom.html#dom-dataset",
           "support": {
             "chrome": {
               "version_added": "8"
@@ -800,6 +814,7 @@
       "dir": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLElement/dir",
+          "spec_url": "https://html.spec.whatwg.org/multipage/#dom-dir",
           "support": {
             "chrome": {
               "version_added": "1"
@@ -895,6 +910,7 @@
       "enterKeyHint": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLElement/enterKeyHint",
+          "spec_url": "https://html.spec.whatwg.org/multipage/interaction.html#dom-enterkeyhint",
           "support": {
             "chrome": {
               "version_added": "77"
@@ -957,6 +973,7 @@
       "focus": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLOrForeignElement/focus",
+          "spec_url": "https://html.spec.whatwg.org/multipage/editing.html#dom-focus",
           "support": {
             "chrome": {
               "version_added": "1"
@@ -1102,6 +1119,7 @@
         "__compat": {
           "description": "<code>gotpointercapture</code> event",
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLElement/gotpointercapture_event",
+          "spec_url": "https://w3c.github.io/pointerevents/#the-gotpointercapture-event",
           "support": {
             "chrome": {
               "version_added": "57"
@@ -1150,6 +1168,7 @@
       "hidden": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLElement/hidden",
+          "spec_url": "https://html.spec.whatwg.org/multipage/interaction.html#dom-hidden",
           "support": {
             "chrome": {
               "version_added": "6"
@@ -1198,6 +1217,7 @@
       "inert": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLElement/inert",
+          "spec_url": "https://html.spec.whatwg.org/multipage/interaction.html#inert-subtrees",
           "support": {
             "chrome": {
               "version_added": "60",
@@ -1295,6 +1315,7 @@
       "innerText": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLElement/innerText",
+          "spec_url": "https://html.spec.whatwg.org/multipage/dom.html#the-innertext-idl-attribute",
           "support": {
             "chrome": {
               "version_added": "1"
@@ -1343,6 +1364,7 @@
       "input_event": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLElement/input_event",
+          "spec_url": "https://html.spec.whatwg.org/multipage/forms.html#event-input-input",
           "description": "<code>input</code> event",
           "support": {
             "chrome": {
@@ -1456,6 +1478,7 @@
       "isContentEditable": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLElement/isContentEditable",
+          "spec_url": "https://html.spec.whatwg.org/multipage/editing.html#dom-iscontenteditable",
           "support": {
             "chrome": {
               "version_added": "1"
@@ -1877,6 +1900,7 @@
         "__compat": {
           "description": "<code>lostpointercapture</code> event",
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLElement/lostpointercapture_event",
+          "spec_url": "https://w3c.github.io/pointerevents/#the-lostpointercapture-event",
           "support": {
             "chrome": {
               "version_added": "57"
@@ -1925,6 +1949,7 @@
       "nonce": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLOrForeignElement/nonce",
+          "spec_url": "https://html.spec.whatwg.org/multipage/#attr-nonce",
           "support": {
             "chrome": {
               "version_added": "61"
@@ -1977,6 +2002,7 @@
       "offsetHeight": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLElement/offsetHeight",
+          "spec_url": "https://drafts.csswg.org/cssom-view/#dom-htmlelement-offsetheight",
           "support": {
             "chrome": {
               "version_added": "1"
@@ -2025,6 +2051,7 @@
       "offsetLeft": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLElement/offsetLeft",
+          "spec_url": "https://drafts.csswg.org/cssom-view/#dom-htmlelement-offsetleft",
           "support": {
             "chrome": {
               "version_added": "1"
@@ -2073,6 +2100,7 @@
       "offsetParent": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLElement/offsetParent",
+          "spec_url": "https://drafts.csswg.org/cssom-view/#dom-htmlelement-offsetparent",
           "support": {
             "chrome": {
               "version_added": "1"
@@ -2121,6 +2149,7 @@
       "offsetTop": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLElement/offsetTop",
+          "spec_url": "https://drafts.csswg.org/cssom-view/#dom-htmlelement-offsettop",
           "support": {
             "chrome": {
               "version_added": "1"
@@ -2169,6 +2198,7 @@
       "offsetWidth": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLElement/offsetWidth",
+          "spec_url": "https://drafts.csswg.org/cssom-view/#dom-htmlelement-offsetwidth",
           "support": {
             "chrome": {
               "version_added": "1"
@@ -2410,6 +2440,7 @@
         "__compat": {
           "description": "<code>pointercancel</code> event",
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLElement/pointercancel_event",
+          "spec_url": "https://w3c.github.io/pointerevents/#the-pointercancel-event",
           "support": {
             "chrome": {
               "version_added": "55"
@@ -2491,6 +2522,7 @@
         "__compat": {
           "description": "<code>pointerdown</code> event",
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLElement/pointerdown_event",
+          "spec_url": "https://w3c.github.io/pointerevents/#the-pointerdown-event",
           "support": {
             "chrome": {
               "version_added": "55"
@@ -2572,6 +2604,7 @@
         "__compat": {
           "description": "<code>pointerenter</code> event",
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLElement/pointerenter_event",
+          "spec_url": "https://w3c.github.io/pointerevents/#the-pointerenter-event",
           "support": {
             "chrome": {
               "version_added": "55"
@@ -2653,6 +2686,7 @@
         "__compat": {
           "description": "<code>pointerleave</code> event",
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLElement/pointerleave_event",
+          "spec_url": "https://w3c.github.io/pointerevents/#the-pointerleave-event",
           "support": {
             "chrome": {
               "version_added": "55"
@@ -2734,6 +2768,7 @@
         "__compat": {
           "description": "<code>pointermove</code> event",
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLElement/pointermove_event",
+          "spec_url": "https://w3c.github.io/pointerevents/#the-pointermove-event",
           "support": {
             "chrome": {
               "version_added": "55"
@@ -2815,6 +2850,7 @@
         "__compat": {
           "description": "<code>pointerout</code> event",
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLElement/pointerout_event",
+          "spec_url": "https://w3c.github.io/pointerevents/#the-pointerout-event",
           "support": {
             "chrome": {
               "version_added": "55"
@@ -2896,6 +2932,7 @@
         "__compat": {
           "description": "<code>pointerover</code> event",
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLElement/pointerover_event",
+          "spec_url": "https://w3c.github.io/pointerevents/#the-pointerover-event",
           "support": {
             "chrome": {
               "version_added": "55"
@@ -2977,6 +3014,7 @@
         "__compat": {
           "description": "<code>pointerup</code> event",
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLElement/pointerup_event",
+          "spec_url": "https://w3c.github.io/pointerevents/#the-pointerup-event",
           "support": {
             "chrome": {
               "version_added": "55"
@@ -3104,6 +3142,7 @@
       "style": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/ElementCSSInlineStyle/style",
+          "spec_url": "https://drafts.csswg.org/cssom/#dom-elementcssinlinestyle-style",
           "support": {
             "chrome": {
               "version_added": "1"
@@ -3152,6 +3191,7 @@
       "tabIndex": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLOrForeignElement/tabIndex",
+          "spec_url": "https://html.spec.whatwg.org/multipage/#dom-tabindex",
           "support": {
             "chrome": {
               "version_added": "1"
@@ -3209,6 +3249,7 @@
       "title": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLElement/title",
+          "spec_url": "https://html.spec.whatwg.org/multipage/#dom-title",
           "support": {
             "chrome": {
               "version_added": "1"
@@ -3258,6 +3299,7 @@
         "__compat": {
           "description": "<code>transitioncancel</code> event",
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLElement/transitioncancel_event",
+          "spec_url": "https://drafts.csswg.org/css-transitions/#transitioncancel",
           "support": {
             "chrome": {
               "version_added": "74"
@@ -3337,6 +3379,7 @@
         "__compat": {
           "description": "<code>transitionend</code> event",
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLElement/transitionend_event",
+          "spec_url": "https://drafts.csswg.org/css-transitions/#transitionend",
           "support": {
             "chrome": [
               {
@@ -3450,6 +3493,7 @@
         "__compat": {
           "description": "<code>transitionrun</code> event",
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLElement/transitionrun_event",
+          "spec_url": "https://drafts.csswg.org/css-transitions/#transitionrun",
           "support": {
             "chrome": {
               "version_added": "74"
@@ -3529,6 +3573,7 @@
         "__compat": {
           "description": "<code>transitionstart</code> event",
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLElement/transitionstart_event",
+          "spec_url": "https://drafts.csswg.org/css-transitions/#transitionstart",
           "support": {
             "chrome": {
               "version_added": "74"

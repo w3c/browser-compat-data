@@ -3,6 +3,7 @@
     "RTCIceCandidatePairStats": {
       "__compat": {
         "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCIceCandidatePairStats",
+        "spec_url": "https://w3c.github.io/webrtc-stats/#dom-rtcicecandidatepairstats",
         "support": {
           "chrome": {
             "version_added": "56"
@@ -50,6 +51,7 @@
       "availableIncomingBitrate": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCIceCandidatePairStats/availableIncomingBitrate",
+          "spec_url": "https://w3c.github.io/webrtc-stats/#dom-rtcicecandidatepairstats-availableincomingbitrate",
           "support": {
             "chrome": {
               "version_added": false
@@ -98,6 +100,7 @@
       "availableOutgoingBitrate": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCIceCandidatePairStats/availableOutgoingBitrate",
+          "spec_url": "https://w3c.github.io/webrtc-stats/#dom-rtcicecandidatepairstats-availableoutgoingbitrate",
           "support": {
             "chrome": {
               "version_added": true
@@ -146,6 +149,7 @@
       "bytesReceived": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCIceCandidatePairStats/bytesReceived",
+          "spec_url": "https://w3c.github.io/webrtc-stats/#dom-rtcicecandidatepairstats-bytesreceived",
           "support": {
             "chrome": {
               "version_added": true
@@ -194,6 +198,7 @@
       "bytesSent": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCIceCandidatePairStats/bytesSent",
+          "spec_url": "https://w3c.github.io/webrtc-stats/#dom-rtcicecandidatepairstats-bytessent",
           "support": {
             "chrome": {
               "version_added": true
@@ -242,6 +247,7 @@
       "circuitBreakerTriggerCount": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCIceCandidatePairStats/circuitBreakerTriggerCount",
+          "spec_url": "https://w3c.github.io/webrtc-stats/#dom-rtcicecandidatepairstats-circuitbreakertriggercount",
           "support": {
             "chrome": {
               "version_added": false
@@ -290,6 +296,7 @@
       "consentExpiredTimestamp": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCIceCandidatePairStats/consentExpiredTimestamp",
+          "spec_url": "https://w3c.github.io/webrtc-stats/#dom-rtcicecandidatepairstats-consentexpiredtimestamp",
           "support": {
             "chrome": {
               "version_added": false
@@ -338,6 +345,7 @@
       "consentRequestsSent": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCIceCandidatePairStats/consentRequestsSent",
+          "spec_url": "https://w3c.github.io/webrtc-stats/#dom-rtcicecandidatepairstats-consentrequestssent",
           "support": {
             "chrome": {
               "version_added": false
@@ -386,6 +394,7 @@
       "currentRoundTripTime": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCIceCandidatePairStats/currentRoundTripTime",
+          "spec_url": "https://w3c.github.io/webrtc-stats/#dom-rtcicecandidatepairstats-currentroundtriptime",
           "support": {
             "chrome": [
               {
@@ -464,6 +473,7 @@
       "firstRequestTimeStamp": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCIceCandidatePairStats/firstRequestTimeStamp",
+          "spec_url": "https://w3c.github.io/webrtc-stats/#dom-rtcicecandidatepairstats-firstrequesttimestamp",
           "support": {
             "chrome": {
               "version_added": false
@@ -512,6 +522,7 @@
       "lastPacketReceivedTimestamp": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCIceCandidatePairStats/lastPacketReceivedTimestamp",
+          "spec_url": "https://w3c.github.io/webrtc-stats/#dom-rtcicecandidatepairstats-lastpacketreceivedtimestamp",
           "support": {
             "chrome": {
               "version_added": false
@@ -560,6 +571,7 @@
       "lastPacketSentTimestamp": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCIceCandidatePairStats/lastPacketSentTimestamp",
+          "spec_url": "https://w3c.github.io/webrtc-stats/#dom-rtcicecandidatepairstats-lastpacketsenttimestamp",
           "support": {
             "chrome": {
               "version_added": false
@@ -655,6 +667,7 @@
       "lastRequestTimestamp": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCIceCandidatePairStats/lastRequestTimestamp",
+          "spec_url": "https://w3c.github.io/webrtc-stats/#dom-rtcicecandidatepairstats-lastrequesttimestamp",
           "support": {
             "chrome": {
               "version_added": false
@@ -703,6 +716,7 @@
       "localCandidateId": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCIceCandidatePairStats/localCandidateId",
+          "spec_url": "https://w3c.github.io/webrtc-stats/#dom-rtcicecandidatepairstats-localcandidateid",
           "support": {
             "chrome": {
               "version_added": false
@@ -751,6 +765,7 @@
       "nominated": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCIceCandidatePairStats/nominated",
+          "spec_url": "https://w3c.github.io/webrtc-stats/#dom-rtcicecandidatepairstats-nominated",
           "support": {
             "chrome": {
               "version_added": false
@@ -799,6 +814,7 @@
       "packetsReceived": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCIceCandidatePairStats/packetsReceived",
+          "spec_url": "https://w3c.github.io/webrtc-stats/#dom-rtcicecandidatepairstats-packetsreceived",
           "support": {
             "chrome": {
               "version_added": false
@@ -847,6 +863,7 @@
       "packetsSent": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCIceCandidatePairStats/packetsSent",
+          "spec_url": "https://w3c.github.io/webrtc-stats/#dom-rtcicecandidatepairstats-packetssent",
           "support": {
             "chrome": {
               "version_added": false
@@ -895,6 +912,7 @@
       "priority": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCIceCandidatePairStats/priority",
+          "spec_url": "https://w3c.github.io/webrtc-stats/#dom-rtcicecandidatepairstats-priority",
           "support": {
             "chrome": {
               "version_added": false
@@ -1003,6 +1021,7 @@
       "remoteCandidateId": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCIceCandidatePairStats/remoteCandidateId",
+          "spec_url": "https://w3c.github.io/webrtc-stats/#dom-rtcicecandidatepairstats-remotecandidateid",
           "support": {
             "chrome": {
               "version_added": false
@@ -1051,6 +1070,7 @@
       "requestsReceived": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCIceCandidatePairStats/requestsReceived",
+          "spec_url": "https://w3c.github.io/webrtc-stats/#dom-rtcicecandidatepairstats-requestsreceived",
           "support": {
             "chrome": {
               "version_added": true
@@ -1099,6 +1119,7 @@
       "requestsSent": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCIceCandidatePairStats/requestsSent",
+          "spec_url": "https://w3c.github.io/webrtc-stats/#dom-rtcicecandidatepairstats-requestssent",
           "support": {
             "chrome": {
               "version_added": true
@@ -1147,6 +1168,7 @@
       "responsesReceived": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCIceCandidatePairStats/responsesReceived",
+          "spec_url": "https://w3c.github.io/webrtc-stats/#dom-rtcicecandidatepairstats-responsesreceived",
           "support": {
             "chrome": {
               "version_added": true
@@ -1195,6 +1217,7 @@
       "responsesSent": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCIceCandidatePairStats/responsesSent",
+          "spec_url": "https://w3c.github.io/webrtc-stats/#dom-rtcicecandidatepairstats-responsessent",
           "support": {
             "chrome": {
               "version_added": true
@@ -1243,6 +1266,7 @@
       "retransmissionsReceived": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCIceCandidatePairStats/retransmissionsReceived",
+          "spec_url": "https://w3c.github.io/webrtc-stats/#dom-rtcicecandidatepairstats-retransmissionsreceived",
           "support": {
             "chrome": {
               "version_added": false
@@ -1291,6 +1315,7 @@
       "retransmissionsSent": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCIceCandidatePairStats/retransmissionsSent",
+          "spec_url": "https://w3c.github.io/webrtc-stats/#dom-rtcicecandidatepairstats-retransmissionssent",
           "support": {
             "chrome": {
               "version_added": false
@@ -1339,6 +1364,7 @@
       "state": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCIceCandidatePairStats/state",
+          "spec_url": "https://w3c.github.io/webrtc-stats/#dom-rtcicecandidatepairstats-state",
           "support": {
             "chrome": {
               "version_added": false
@@ -1387,6 +1413,7 @@
       "totalRoundTripTime": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCIceCandidatePairStats/totalRoundTripTime",
+          "spec_url": "https://w3c.github.io/webrtc-stats/#dom-rtcicecandidatepairstats-totalroundtriptime",
           "support": {
             "chrome": [
               {
@@ -1459,6 +1486,7 @@
       "transportId": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCIceCandidatePairStats/transportId",
+          "spec_url": "https://w3c.github.io/webrtc-stats/#dom-rtcicecandidatepairstats-transportid",
           "support": {
             "chrome": {
               "version_added": false

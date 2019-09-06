@@ -3,6 +3,7 @@
     "HTMLAreaElement": {
       "__compat": {
         "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLAreaElement",
+        "spec_url": "https://html.spec.whatwg.org/multipage/#htmlareaelement",
         "support": {
           "chrome": {
             "version_added": "1"
@@ -285,6 +286,7 @@
       "referrerPolicy": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLAreaElement/referrerPolicy",
+          "spec_url": "https://w3c.github.io/webappsec-referrer-policy/#referrer-policy-delivery-referrer-attribute",
           "support": {
             "chrome": {
               "version_added": "53"
@@ -333,6 +335,7 @@
       "rel": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLAreaElement/rel",
+          "spec_url": "https://html.spec.whatwg.org/multipage/#dom-area-rel",
           "support": {
             "chrome": {
               "version_added": "54"
@@ -381,6 +384,7 @@
       "relList": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLAreaElement/relList",
+          "spec_url": "https://html.spec.whatwg.org/multipage/embedded-content.html#dom-area-rellist",
           "support": {
             "chrome": {
               "version_added": "65"

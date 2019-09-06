@@ -51,6 +51,7 @@
       "childElementCount": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Element/childElementCount",
+          "spec_url": "https://dom.spec.whatwg.org/#dom-parentnode-childelementcount",
           "support": {
             "chrome": {
               "version_added": "1"
@@ -99,6 +100,7 @@
       "children": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Element/children",
+          "spec_url": "https://dom.spec.whatwg.org/#dom-parentnode-children",
           "support": {
             "chrome": {
               "version_added": "1"
@@ -154,6 +156,7 @@
       "firstElementChild": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Element/firstElementChild",
+          "spec_url": "https://dom.spec.whatwg.org/#dom-parentnode-firstelementchild",
           "support": {
             "chrome": {
               "version_added": "1"
@@ -202,6 +205,7 @@
       "lastElementChild": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Element/lastElementChild",
+          "spec_url": "https://dom.spec.whatwg.org/#dom-parentnode-lastelementchild",
           "support": {
             "chrome": {
               "version_added": "1"
@@ -297,6 +301,7 @@
       "querySelector": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Element/querySelector",
+          "spec_url": "https://dom.spec.whatwg.org/#dom-parentnode-queryselectorall",
           "support": {
             "chrome": {
               "version_added": "1"
@@ -352,6 +357,7 @@
       "querySelectorAll": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Element/querySelectorAll",
+          "spec_url": "https://dom.spec.whatwg.org/#dom-parentnode-queryselectorall",
           "support": {
             "chrome": {
               "version_added": "1"

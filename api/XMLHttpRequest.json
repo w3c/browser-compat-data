@@ -104,6 +104,7 @@
       "abort": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/XMLHttpRequest/abort",
+          "spec_url": "https://xhr.spec.whatwg.org/#the-abort()-method",
           "support": {
             "chrome": {
               "version_added": "18"
@@ -153,6 +154,7 @@
         "__compat": {
           "description": "<code>abort</code> event",
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/XMLHttpRequest/abort_event",
+          "spec_url": "https://xhr.spec.whatwg.org/#event-xhr-abort",
           "support": {
             "chrome": {
               "version_added": true
@@ -202,6 +204,7 @@
         "__compat": {
           "description": "<code>error</code> event",
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/XMLHttpRequest/error_event",
+          "spec_url": "https://xhr.spec.whatwg.org/#event-xhr-error",
           "support": {
             "chrome": {
               "version_added": true
@@ -250,6 +253,7 @@
       "getAllResponseHeaders": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/XMLHttpRequest/getAllResponseHeaders",
+          "spec_url": "https://xhr.spec.whatwg.org/#the-getallresponseheaders()-method",
           "support": {
             "chrome": {
               "version_added": "1"
@@ -348,6 +352,7 @@
       "getResponseHeader": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/XMLHttpRequest/getResponseHeader",
+          "spec_url": "https://xhr.spec.whatwg.org/#dom-xmlhttprequest-getresponseheader",
           "support": {
             "chrome": {
               "version_added": "1"
@@ -399,6 +404,7 @@
         "__compat": {
           "description": "<code>load</code> event",
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/XMLHttpRequest/load_event",
+          "spec_url": "https://xhr.spec.whatwg.org/#event-xhr-load",
           "support": {
             "chrome": {
               "version_added": true
@@ -448,6 +454,7 @@
         "__compat": {
           "description": "<code>loadend</code> event",
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/XMLHttpRequest/loadend_event",
+          "spec_url": "https://xhr.spec.whatwg.org/#event-xhr-loadend",
           "support": {
             "chrome": {
               "version_added": true
@@ -497,6 +504,7 @@
         "__compat": {
           "description": "<code>loadstart</code> event",
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/XMLHttpRequest/loadstart_event",
+          "spec_url": "https://xhr.spec.whatwg.org/#event-xhr-loadstart",
           "support": {
             "chrome": {
               "version_added": true
@@ -545,6 +553,7 @@
       "onreadystatechange": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/XMLHttpRequest/onreadystatechange",
+          "spec_url": "https://xhr.spec.whatwg.org/#handler-xhr-onreadystatechange",
           "support": {
             "chrome": {
               "version_added": "1"
@@ -593,6 +602,7 @@
       "open": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/XMLHttpRequest/open",
+          "spec_url": "https://xhr.spec.whatwg.org/#the-open()-method",
           "support": {
             "chrome": {
               "version_added": "1"
@@ -643,6 +653,7 @@
       "overrideMimeType": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/XMLHttpRequest/overrideMimeType",
+          "spec_url": "https://xhr.spec.whatwg.org/#the-overridemimetype()-method",
           "support": {
             "chrome": {
               "version_added": "1"
@@ -698,6 +709,7 @@
         "__compat": {
           "description": "<code>progress</code> event",
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/XMLHttpRequest/progress_event",
+          "spec_url": "https://xhr.spec.whatwg.org/#event-xhr-progress",
           "support": {
             "chrome": {
               "version_added": true
@@ -746,6 +758,7 @@
       "readyState": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/XMLHttpRequest/readyState",
+          "spec_url": "https://xhr.spec.whatwg.org/#states",
           "support": {
             "chrome": {
               "version_added": "1"
@@ -841,6 +854,7 @@
       "response": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/XMLHttpRequest/response",
+          "spec_url": "https://xhr.spec.whatwg.org/#the-response-attribute",
           "support": {
             "chrome": {
               "version_added": "9"
@@ -889,6 +903,7 @@
       "responseText": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/XMLHttpRequest/responseText",
+          "spec_url": "https://xhr.spec.whatwg.org/#the-responsetext-attribute",
           "support": {
             "chrome": {
               "version_added": "1"
@@ -938,6 +953,7 @@
       "responseType": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/XMLHttpRequest/responseType",
+          "spec_url": "https://xhr.spec.whatwg.org/#the-responsetype-attribute",
           "support": {
             "chrome": {
               "version_added": "31"
@@ -1295,6 +1311,7 @@
       "responseURL": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/XMLHttpRequest/responseURL",
+          "spec_url": "https://xhr.spec.whatwg.org/#the-responseurl-attribute",
           "support": {
             "chrome": {
               "version_added": "37"
@@ -1343,6 +1360,7 @@
       "responseXML": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/XMLHttpRequest/responseXML",
+          "spec_url": "https://xhr.spec.whatwg.org/#the-responsexml-attribute",
           "support": {
             "chrome": {
               "version_added": true
@@ -1393,6 +1411,7 @@
       "send": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/XMLHttpRequest/send",
+          "spec_url": "https://xhr.spec.whatwg.org/#the-send()-method",
           "support": {
             "chrome": {
               "version_added": "1"
@@ -1686,6 +1705,7 @@
       "setRequestHeader": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/XMLHttpRequest/setRequestHeader",
+          "spec_url": "https://xhr.spec.whatwg.org/#the-setrequestheader()-method",
           "support": {
             "chrome": {
               "version_added": "1"
@@ -1734,6 +1754,7 @@
       "status": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/XMLHttpRequest/status",
+          "spec_url": "https://xhr.spec.whatwg.org/#the-status-attribute",
           "support": {
             "chrome": {
               "version_added": "1"
@@ -1783,6 +1804,7 @@
       "statusText": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/XMLHttpRequest/statusText",
+          "spec_url": "https://xhr.spec.whatwg.org/#the-statustext-attribute",
           "support": {
             "chrome": {
               "version_added": "1"
@@ -1832,6 +1854,7 @@
       "timeout": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/XMLHttpRequest/timeout",
+          "spec_url": "https://xhr.spec.whatwg.org/#the-timeout-attribute",
           "support": {
             "chrome": {
               "version_added": "29"
@@ -1893,6 +1916,7 @@
         "__compat": {
           "description": "<code>timeout</code> event",
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/XMLHttpRequest/timeout_event",
+          "spec_url": "https://xhr.spec.whatwg.org/#event-xhr-timeout",
           "support": {
             "chrome": {
               "version_added": true
@@ -1941,6 +1965,7 @@
       "upload": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/XMLHttpRequest/upload",
+          "spec_url": "https://xhr.spec.whatwg.org/#the-upload-attribute",
           "support": {
             "chrome": {
               "version_added": "1"
@@ -1989,6 +2014,7 @@
       "withCredentials": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/XMLHttpRequest/withCredentials",
+          "spec_url": "https://xhr.spec.whatwg.org/#the-withcredentials-attribute",
           "support": {
             "chrome": {
               "version_added": "3"

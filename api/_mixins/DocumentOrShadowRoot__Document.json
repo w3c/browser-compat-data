@@ -4,6 +4,7 @@
       "activeElement": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Document/activeElement",
+          "spec_url": "https://html.spec.whatwg.org/multipage/interaction.html#dom-document-activeelement",
           "support": {
             "chrome": {
               "version_added": "1"
@@ -99,6 +100,7 @@
       "elementFromPoint": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Document/elementFromPoint",
+          "spec_url": "https://drafts.csswg.org/cssom-view/#dom-document-elementsfrompoint",
           "support": {
             "chrome": {
               "version_added": "1",
@@ -153,6 +155,7 @@
       "elementsFromPoint": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Document/elementsFromPoint",
+          "spec_url": "https://drafts.csswg.org/cssom-view/#dom-document-elementsfrompoint",
           "support": {
             "chrome": {
               "version_added": "43",
@@ -215,6 +218,7 @@
       "fullscreenElement": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Document/fullscreenElement",
+          "spec_url": "https://fullscreen.spec.whatwg.org/#dom-document-fullscreenelement",
           "support": {
             "chrome": [
               {
@@ -350,6 +354,7 @@
       "getAnimations": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Document/getAnimations",
+          "spec_url": "https://drafts.csswg.org/web-animations-1/#dom-documentorshadowroot-getanimations",
           "support": {
             "chrome": [
               {
@@ -538,6 +543,7 @@
       "pointerLockElement": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Document/pointerLockElement",
+          "spec_url": "https://w3c.github.io/pointerlock/#extensions-to-the-documentorshadowroot-mixin",
           "support": {
             "chrome": {
               "version_added": "37"
@@ -586,6 +592,7 @@
       "styleSheets": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Document/styleSheets",
+          "spec_url": "https://drafts.csswg.org/cssom/#extensions-to-the-document-or-shadow-root-interface",
           "support": {
             "chrome": {
               "version_added": "1"

@@ -51,6 +51,7 @@
       "childElementCount": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/DocumentFragment/childElementCount",
+          "spec_url": "https://dom.spec.whatwg.org/#dom-parentnode-childelementcount",
           "support": {
             "chrome": {
               "version_added": "29"
@@ -99,6 +100,7 @@
       "children": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/DocumentFragment/children",
+          "spec_url": "https://dom.spec.whatwg.org/#dom-parentnode-children",
           "support": {
             "chrome": {
               "version_added": "29"
@@ -147,6 +149,7 @@
       "firstElementChild": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/DocumentFragment/firstElementChild",
+          "spec_url": "https://dom.spec.whatwg.org/#dom-parentnode-firstelementchild",
           "support": {
             "chrome": {
               "version_added": "29"
@@ -195,6 +198,7 @@
       "lastElementChild": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/DocumentFragment/lastElementChild",
+          "spec_url": "https://dom.spec.whatwg.org/#dom-parentnode-lastelementchild",
           "support": {
             "chrome": {
               "version_added": "29"

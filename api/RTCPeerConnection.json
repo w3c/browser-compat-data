@@ -3,6 +3,7 @@
     "RTCPeerConnection": {
       "__compat": {
         "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCPeerConnection",
+        "spec_url": "https://w3c.github.io/webrtc-pc/#interface-definition",
         "support": {
           "chrome": {
             "version_added": "23"
@@ -79,6 +80,7 @@
         "__compat": {
           "description": "<code>RTCPeerConnection()</code> constructor",
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCPeerConnection/RTCPeerConnection",
+          "spec_url": "https://w3c.github.io/webrtc-pc/#dom-peerconnection",
           "support": {
             "chrome": {
               "version_added": "23",
@@ -144,6 +146,7 @@
       "addIceCandidate": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCPeerConnection/addIceCandidate",
+          "spec_url": "https://w3c.github.io/webrtc-pc/#dom-peerconnection-addicecandidate",
           "support": {
             "chrome": [
               {
@@ -234,6 +237,7 @@
       "addStream": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCPeerConnection/addStream",
+          "spec_url": "https://w3c.github.io/webrtc-pc/#legacy-interface-extensions",
           "support": {
             "chrome": {
               "version_added": "24"
@@ -347,6 +351,7 @@
       "addTrack": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCPeerConnection/addTrack",
+          "spec_url": "https://w3c.github.io/webrtc-pc/#dom-rtcpeerconnection-addtrack",
           "support": {
             "chrome": {
               "version_added": "64"
@@ -395,6 +400,7 @@
       "addTransceiver": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCPeerConnection/addTransceiver",
+          "spec_url": "https://w3c.github.io/webrtc-pc/#dom-rtcpeerconnection-addtransceiver",
           "support": {
             "chrome": {
               "version_added": "69"
@@ -443,6 +449,7 @@
       "canTrickleIceCandidates": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCPeerConnection/canTrickleIceCandidates",
+          "spec_url": "https://w3c.github.io/webrtc-pc/#dom-rtcpeerconnection-cantrickleicecandidates",
           "support": {
             "chrome": {
               "version_added": false
@@ -492,6 +499,7 @@
       "close": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCPeerConnection/close",
+          "spec_url": "https://w3c.github.io/webrtc-pc/#dom-rtcpeerconnection-close",
           "support": {
             "chrome": {
               "version_added": "23"
@@ -540,6 +548,7 @@
       "connectionState": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCPeerConnection/connectionState",
+          "spec_url": "https://w3c.github.io/webrtc-pc/#dom-peerconnection-connection-state",
           "support": {
             "chrome": {
               "version_added": "72"
@@ -588,6 +597,7 @@
       "connectionstatechange_event": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCPeerConnection/connectionstatechange_event",
+          "spec_url": "https://w3c.github.io/webrtc-pc/#event-connectionstatechange",
           "description": "<code>connectionstatechange</code> event",
           "support": {
             "chrome": {
@@ -637,6 +647,7 @@
       "createAnswer": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCPeerConnection/createAnswer",
+          "spec_url": "https://w3c.github.io/webrtc-pc/#dom-rtcpeerconnection-createanswer",
           "support": {
             "chrome": [
               {
@@ -725,6 +736,7 @@
       "createDataChannel": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCPeerConnection/createDataChannel",
+          "spec_url": "https://w3c.github.io/webrtc-pc/#dom-peerconnection-createdatachannel",
           "support": {
             "chrome": {
               "version_added": "25"
@@ -848,6 +860,7 @@
       "createOffer": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCPeerConnection/createOffer",
+          "spec_url": "https://w3c.github.io/webrtc-pc/#dom-rtcpeerconnection-createoffer",
           "support": {
             "chrome": [
               {
@@ -936,6 +949,7 @@
       "currentLocalDescription": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCPeerConnection/currentLocalDescription",
+          "spec_url": "https://w3c.github.io/webrtc-pc/#dom-peerconnection-currentlocaldesc",
           "support": {
             "chrome": {
               "version_added": "70"
@@ -998,6 +1012,7 @@
       "currentRemoteDescription": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCPeerConnection/currentRemoteDescription",
+          "spec_url": "https://w3c.github.io/webrtc-pc/#dom-peerconnection-currentremotedesc",
           "support": {
             "chrome": {
               "version_added": "70"
@@ -1046,6 +1061,7 @@
       "datachannel_event": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCPeerConnection/datachannel_event",
+          "spec_url": "https://w3c.github.io/webrtc-pc/#event-datachannel",
           "description": "<code>datachannel</code> event",
           "support": {
             "chrome": {
@@ -1095,6 +1111,7 @@
       "defaultIceServers": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCPeerConnection/defaultIceServers",
+          "spec_url": "https://w3c.github.io/webrtc-extensions/#dom-rtcpeerconnection-getdefaulticeservers",
           "support": {
             "chrome": {
               "version_added": false
@@ -1158,6 +1175,7 @@
       "generateCertificate": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCPeerConnection/generateCertificate",
+          "spec_url": "https://w3c.github.io/webrtc-pc/#dom-rtcpeerconnection-generatecertificate",
           "support": {
             "chrome": {
               "version_added": "48"
@@ -1220,6 +1238,7 @@
       "getConfiguration": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCPeerConnection/getConfiguration",
+          "spec_url": "https://w3c.github.io/webrtc-pc/#dom-rtcpeerconnection-getconfiguration",
           "support": {
             "chrome": {
               "version_added": "70"
@@ -1282,6 +1301,7 @@
       "getDefaultIceServers": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCPeerConnection/getDefaultIceServers",
+          "spec_url": "https://w3c.github.io/webrtc-extensions/#dom-rtcpeerconnection-getdefaulticeservers",
           "support": {
             "chrome": {
               "version_added": false
@@ -1330,6 +1350,7 @@
       "getIdentityAssertion": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCPeerConnection/getIdentityAssertion",
+          "spec_url": "https://w3c.github.io/webrtc-identity/#dfn-getidentityassertion",
           "support": {
             "chrome": {
               "version_added": false
@@ -1393,6 +1414,7 @@
       "getLocalStreams": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCPeerConnection/getLocalStreams",
+          "spec_url": "https://w3c.github.io/webrtc-pc/#dom-peerconnection-getsenders",
           "support": {
             "chrome": {
               "version_added": "27"
@@ -1457,6 +1479,7 @@
       "getReceivers": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCPeerConnection/getReceivers",
+          "spec_url": "https://w3c.github.io/webrtc-pc/#dom-peerconnection-getreceivers",
           "support": {
             "chrome": {
               "version_added": "59"
@@ -1505,6 +1528,7 @@
       "getRemoteStreams": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCPeerConnection/getRemoteStreams",
+          "spec_url": "https://w3c.github.io/webrtc-pc/#dom-peerconnection-getreceivers",
           "support": {
             "chrome": {
               "version_added": "27"
@@ -1569,6 +1593,7 @@
       "getSenders": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCPeerConnection/getSenders",
+          "spec_url": "https://w3c.github.io/webrtc-pc/#dom-peerconnection-getsenders",
           "support": {
             "chrome": {
               "version_added": "64"
@@ -1617,6 +1642,7 @@
       "getStats": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCPeerConnection/getStats",
+          "spec_url": "https://w3c.github.io/webrtc-pc/#widl-RTCPeerConnection-getStats-Promise-RTCStatsReport--MediaStreamTrack-selector",
           "support": {
             "chrome": [
               {
@@ -1919,6 +1945,7 @@
       "icecandidate_event": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCPeerConnection/icecandidate_event",
+          "spec_url": "https://w3c.github.io/webrtc-pc/#event-icecandidate",
           "description": "<code>icecandidate</code> event",
           "support": {
             "chrome": {
@@ -1968,6 +1995,7 @@
       "iceConnectionState": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCPeerConnection/iceConnectionState",
+          "spec_url": "https://w3c.github.io/webrtc-pc/#dom-peerconnection-ice-connection-state",
           "support": {
             "chrome": {
               "version_added": "26"
@@ -2030,6 +2058,7 @@
       "iceconnectionstatechange_event": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCPeerConnection/iceconnectionstatechange_event",
+          "spec_url": "https://w3c.github.io/webrtc-pc/#event-iceconnectionstatechange",
           "description": "<code>iceconnectionstatechange</code> event",
           "support": {
             "chrome": {
@@ -2079,6 +2108,7 @@
       "iceGatheringState": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCPeerConnection/iceGatheringState",
+          "spec_url": "https://w3c.github.io/webrtc-pc/#dom-peerconnection-ice-gathering-state",
           "support": {
             "chrome": {
               "version_added": "25"
@@ -2141,6 +2171,7 @@
       "identityresult_event": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCPeerConnection/identityresult_event",
+          "spec_url": "https://w3c.github.io/webrtc-pc/#event-mediastream-identityresult",
           "description": "<code>identityresult</code> event",
           "support": {
             "chrome": {
@@ -2191,6 +2222,7 @@
       "idpassertionerror_event": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCPeerConnection/idpassertionerror_event",
+          "spec_url": "https://w3c.github.io/webrtc-pc/#event-mediastream-idpassertionerror",
           "description": "<code>idpassertionerror</code> event",
           "support": {
             "chrome": {
@@ -2288,6 +2320,7 @@
       "idpvalidationerror_event": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCPeerConnection/idpvalidationerror_event",
+          "spec_url": "https://w3c.github.io/webrtc-pc/#event-mediastream-idpvalidationerror",
           "description": "<code>idpvalidationerror</code> event",
           "support": {
             "chrome": {
@@ -2338,6 +2371,7 @@
       "localDescription": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCPeerConnection/localDescription",
+          "spec_url": "https://w3c.github.io/webrtc-pc/#dom-peerconnection-localdescription",
           "support": {
             "chrome": {
               "version_added": "24"
@@ -2400,6 +2434,7 @@
       "negotiationneeded_event": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCPeerConnection/negotiationneeded_event",
+          "spec_url": "https://w3c.github.io/webrtc-pc/#event-negotiation",
           "description": "<code>negotiationneeded</code> event",
           "support": {
             "chrome": {
@@ -2513,6 +2548,7 @@
       "onconnectionstatechange": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCPeerConnection/onconnectionstatechange",
+          "spec_url": "https://w3c.github.io/webrtc-pc/#dom-rtcpeerconnection-onconnectionstatechange",
           "support": {
             "chrome": {
               "version_added": "72"
@@ -2561,6 +2597,7 @@
       "ondatachannel": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCPeerConnection/ondatachannel",
+          "spec_url": "https://w3c.github.io/webrtc-pc/#dom-rtcpeerconnection-ondatachannel",
           "support": {
             "chrome": {
               "version_added": "25"
@@ -2623,6 +2660,7 @@
       "onicecandidate": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCPeerConnection/onicecandidate",
+          "spec_url": "https://w3c.github.io/webrtc-pc/#dom-rtcpeerconnection-onicecandidate",
           "support": {
             "chrome": {
               "version_added": "24"
@@ -2685,6 +2723,7 @@
       "onicecandidateerror": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCPeerConnection/onicecandidateerror",
+          "spec_url": "https://w3c.github.io/webrtc-pc/#dom-rtcpeerconnection-onicecandidateerror",
           "support": {
             "chrome": {
               "version_added": false
@@ -2733,6 +2772,7 @@
       "oniceconnectionstatechange": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCPeerConnection/oniceconnectionstatechange",
+          "spec_url": "https://w3c.github.io/webrtc-pc/#dom-rtcpeerconnection-oniceconnectionstatechange",
           "support": {
             "chrome": {
               "version_added": "28"
@@ -2795,6 +2835,7 @@
       "onicegatheringstatechange": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCPeerConnection/onicegatheringstatechange",
+          "spec_url": "https://w3c.github.io/webrtc-pc/#dom-rtcpeerconnection-onicegatheringstatechange",
           "support": {
             "chrome": {
               "version_added": "59"
@@ -3046,6 +3087,7 @@
       "onnegotiationneeded": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCPeerConnection/onnegotiationneeded",
+          "spec_url": "https://w3c.github.io/webrtc-pc/#dom-rtcpeerconnection-onnegotiationneeded",
           "support": {
             "chrome": {
               "version_added": "24"
@@ -3235,6 +3277,7 @@
       "onsignalingstatechange": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCPeerConnection/onsignalingstatechange",
+          "spec_url": "https://w3c.github.io/webrtc-pc/#dom-rtcpeerconnection-onsignalingstatechange",
           "support": {
             "chrome": {
               "version_added": "28"
@@ -3297,6 +3340,7 @@
       "ontrack": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCPeerConnection/ontrack",
+          "spec_url": "https://w3c.github.io/webrtc-pc/#dom-rtcpeerconnection-ontrack",
           "support": {
             "chrome": {
               "version_added": "64"
@@ -3359,6 +3403,7 @@
       "peerIdentity": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCPeerConnection/peerIdentity",
+          "spec_url": "https://w3c.github.io/webrtc-identity/#dfn-peeridentity",
           "support": {
             "chrome": {
               "version_added": false
@@ -3422,6 +3467,7 @@
       "peeridentity_event": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCPeerConnection/peeridentity_event",
+          "spec_url": "https://w3c.github.io/webrtc-pc/#event-mediastream-peeridentity",
           "description": "<code>peeridentity</code> event",
           "support": {
             "chrome": {
@@ -3472,6 +3518,7 @@
       "pendingLocalDescription": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCPeerConnection/pendingLocalDescription",
+          "spec_url": "https://w3c.github.io/webrtc-pc/#dom-peerconnection-pendinglocaldesc",
           "support": {
             "chrome": {
               "version_added": "70"
@@ -3534,6 +3581,7 @@
       "pendingRemoteDescription": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCPeerConnection/pendingRemoteDescription",
+          "spec_url": "https://w3c.github.io/webrtc-pc/#dom-peerconnection-pendingremotedesc",
           "support": {
             "chrome": {
               "version_added": "70"
@@ -3596,6 +3644,7 @@
       "remoteDescription": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCPeerConnection/remoteDescription",
+          "spec_url": "https://w3c.github.io/webrtc-pc/#dom-peerconnection-remotedescription",
           "support": {
             "chrome": {
               "version_added": "24"
@@ -3776,6 +3825,7 @@
       "removeTrack": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCPeerConnection/removeTrack",
+          "spec_url": "https://w3c.github.io/webrtc-pc/#dom-rtcpeerconnection-removetrack",
           "support": {
             "chrome": {
               "version_added": "64"
@@ -3824,6 +3874,7 @@
       "restartIce": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCPeerConnection/restartIce",
+          "spec_url": "https://w3c.github.io/webrtc-pc/#dom-rtcpeerconnection-restartice",
           "description": "<code>restartIce()</code> method",
           "support": {
             "chrome": {
@@ -3873,6 +3924,7 @@
       "sctp": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCPeerConnection/sctp",
+          "spec_url": "https://w3c.github.io/webrtc-pc/#dom-rtcpeerconnection-sctp",
           "support": {
             "chrome": {
               "version_added": "76"
@@ -3923,6 +3975,7 @@
       "setConfiguration": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCPeerConnection/setConfiguration",
+          "spec_url": "https://w3c.github.io/webrtc-pc/#dom-rtcpeerconnection-setconfiguration",
           "support": {
             "chrome": {
               "version_added": "48"
@@ -3987,6 +4040,7 @@
       "setIdentityProvider": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCPeerConnection/setIdentityProvider",
+          "spec_url": "https://w3c.github.io/webrtc-identity/#dfn-setidentityprovider",
           "support": {
             "chrome": {
               "version_added": false
@@ -4050,6 +4104,7 @@
       "setLocalDescription": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCPeerConnection/setLocalDescription",
+          "spec_url": "https://w3c.github.io/webrtc-pc/#dom-peerconnection-setlocaldescription",
           "description": "<code>setLocalDescription()</code>",
           "support": {
             "chrome": [
@@ -4188,6 +4243,7 @@
       "setRemoteDescription": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCPeerConnection/setRemoteDescription",
+          "spec_url": "https://w3c.github.io/webrtc-pc/#dom-peerconnection-setremotedescription",
           "description": "<code>setRemoteDescription()</code>",
           "support": {
             "chrome": [
@@ -4371,6 +4427,7 @@
       "signalingState": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCPeerConnection/signalingState",
+          "spec_url": "https://w3c.github.io/webrtc-pc/#dom-peerconnection-signaling-state",
           "support": {
             "chrome": {
               "version_added": "26"
@@ -4433,6 +4490,7 @@
       "signalingstatechange_event": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCPeerConnection/signalingstatechange_event",
+          "spec_url": "https://w3c.github.io/webrtc-pc/#event-signalingstatechange",
           "description": "<code>signalingstatechange</code> event",
           "support": {
             "chrome": {
@@ -4482,6 +4540,7 @@
       "track_event": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCPeerConnection/track_event",
+          "spec_url": "https://w3c.github.io/webrtc-pc/#event-track",
           "description": "<code>track</code> event",
           "support": {
             "chrome": {
