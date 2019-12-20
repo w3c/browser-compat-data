@@ -3,7 +3,6 @@
     "Document": {
       "append": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/Document/append",
           "support": {
             "chrome": {
               "version_added": "54"
@@ -243,7 +242,6 @@
       },
       "prepend": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/Document/prepend",
           "support": {
             "chrome": {
               "version_added": "54"
@@ -401,7 +399,6 @@
       },
       "replaceChildren": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/Document/replaceChildren",
           "support": {
             "chrome": {
               "version_added": "86"

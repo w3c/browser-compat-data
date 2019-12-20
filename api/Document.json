@@ -950,7 +950,6 @@
       },
       "captureEvents": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/Document/captureEvents",
           "support": {
             "chrome": [
               {
@@ -1854,7 +1853,6 @@
       },
       "createAttributeNS": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/Document/createAttributeNS",
           "support": {
             "chrome": {
               "version_added": "1"
@@ -3721,7 +3719,6 @@
       "dragexit_event": {
         "__compat": {
           "description": "<code>dragexit</code> event",
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/Document/dragexit_event",
           "support": {
             "chrome": {
               "version_added": false
@@ -4466,7 +4463,6 @@
       },
       "execCommandShowHelp": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/Document/execCommandShowHelp",
           "support": {
             "chrome": {
               "version_added": false
@@ -5097,7 +5093,6 @@
       },
       "fileSize": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/Document/fileSize",
           "support": {
             "chrome": {
               "version_added": false
@@ -7043,7 +7038,6 @@
       },
       "loadOverlay": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/Document/loadOverlay",
           "support": {
             "chrome": {
               "version_added": false
@@ -7301,7 +7295,6 @@
       },
       "normalizeDocument": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/Document/normalizeDocument",
           "support": {
             "chrome": {
               "version_added": false
@@ -7447,7 +7440,6 @@
       },
       "oncopy": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/Document/oncopy",
           "support": {
             "chrome": {
               "version_added": "1"
@@ -7495,7 +7487,6 @@
       },
       "oncut": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/Document/oncut",
           "support": {
             "chrome": {
               "version_added": "1"
@@ -7543,7 +7534,6 @@
       },
       "onfreeze": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/Document/onfreeze",
           "support": {
             "chrome": {
               "version_added": "68"
@@ -7801,7 +7791,6 @@
       },
       "onpaste": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/Document/onpaste",
           "support": {
             "chrome": {
               "version_added": "1"
@@ -7896,7 +7885,6 @@
       },
       "onpointerlockerror": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/Document/onpointerlockerror",
           "support": {
             "chrome": {
               "version_added": "36"
@@ -7944,7 +7932,6 @@
       },
       "onreadystatechange": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/Document/onreadystatechange",
           "support": {
             "chrome": {
               "version_added": "9"
@@ -7992,7 +7979,6 @@
       },
       "onresume": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/Document/onresume",
           "support": {
             "chrome": {
               "version_added": "68"
@@ -9493,7 +9479,6 @@
       },
       "queryCommandIndeterm": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/Document/queryCommandIndeterm",
           "support": {
             "chrome": {
               "version_added": "1"
@@ -9651,7 +9636,6 @@
       },
       "queryCommandText": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/Document/queryCommandText",
           "support": {
             "chrome": {
               "version_added": false
@@ -9706,7 +9690,6 @@
       },
       "queryCommandValue": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/Document/queryCommandValue",
           "support": {
             "chrome": {
               "version_added": "1"
@@ -10043,7 +10026,6 @@
       },
       "releaseEvents": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/Document/releaseEvents",
           "support": {
             "chrome": [
               {
@@ -10231,7 +10213,6 @@
       },
       "routeEvent": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/Document/routeEvent",
           "support": {
             "chrome": {
               "version_added": false
@@ -11342,7 +11323,6 @@
       },
       "undoManager": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/Document/undoManager",
           "support": {
             "chrome": {
               "version_added": false
@@ -12133,7 +12113,6 @@
       },
       "xmlStandalone": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/Document/xmlStandalone",
           "support": {
             "chrome": {
               "version_added": "1"

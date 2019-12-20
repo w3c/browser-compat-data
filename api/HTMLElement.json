@@ -49,7 +49,6 @@
       },
       "accessKey": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLElement/accessKey",
           "support": {
             "chrome": {
               "version_added": "17"
@@ -848,7 +847,6 @@
       },
       "draggable": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLElement/draggable",
           "support": {
             "chrome": {
               "version_added": "3"
@@ -1403,7 +1401,6 @@
       },
       "inputMode": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLElement/inputMode",
           "support": {
             "chrome": {
               "version_added": "66"
@@ -1506,7 +1503,6 @@
       },
       "itemId": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLElement/itemId",
           "support": {
             "chrome": {
               "version_added": "17",
@@ -1561,7 +1557,6 @@
       },
       "itemProp": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLElement/itemProp",
           "support": {
             "chrome": {
               "version_added": "17",
@@ -1616,7 +1611,6 @@
       },
       "itemRef": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLElement/itemRef",
           "support": {
             "chrome": {
               "version_added": "17",
@@ -1671,7 +1665,6 @@
       },
       "itemScope": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLElement/itemScope",
           "support": {
             "chrome": {
               "version_added": "17",
@@ -1726,7 +1719,6 @@
       },
       "itemType": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLElement/itemType",
           "support": {
             "chrome": {
               "version_added": "17",
@@ -1781,7 +1773,6 @@
       },
       "itemValue": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLElement/itemValue",
           "support": {
             "chrome": {
               "version_added": "17",
@@ -3065,7 +3056,6 @@
       },
       "spellcheck": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLElement/spellcheck",
           "support": {
             "chrome": {
               "version_added": "9"
@@ -3616,7 +3606,6 @@
       },
       "translate": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLElement/translate",
           "support": {
             "chrome": {
               "version_added": "19"

@@ -96,7 +96,6 @@
       },
       "getCapabilities": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCRtpReceiver/getCapabilities",
           "support": {
             "chrome": {
               "version_added": "59"
@@ -309,7 +308,6 @@
       },
       "getParameters": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCRtpReceiver/getParameters",
           "support": {
             "chrome": {
               "version_added": "59"
@@ -570,7 +568,6 @@
       },
       "rtcpTransport": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCRtpReceiver/rtcpTransport",
           "support": {
             "chrome": {
               "version_added": "59"
@@ -666,7 +663,6 @@
       },
       "transport": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCRtpReceiver/transport",
           "support": {
             "chrome": {
               "version_added": "59"

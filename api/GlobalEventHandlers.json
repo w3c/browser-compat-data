@@ -2804,7 +2804,6 @@
       },
       "onplaying": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/GlobalEventHandlers/onplaying",
           "support": {
             "chrome": {
               "version_added": "32"
@@ -3204,7 +3203,6 @@
       },
       "onpointerlockchange": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/GlobalEventHandlers/onpointerlockchange",
           "support": {
             "chrome": {
               "version_added": "36"
@@ -3252,7 +3250,6 @@
       },
       "onpointerlockerror": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/GlobalEventHandlers/onpointerlockerror",
           "support": {
             "chrome": {
               "version_added": "36"
@@ -3640,7 +3637,6 @@
       },
       "onprogress": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/GlobalEventHandlers/onprogress",
           "support": {
             "chrome": {
               "version_added": "32"
@@ -3700,7 +3696,6 @@
       },
       "onratechange": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/GlobalEventHandlers/onratechange",
           "support": {
             "chrome": {
               "version_added": "32"
@@ -3914,7 +3909,6 @@
       },
       "onseeked": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/GlobalEventHandlers/onseeked",
           "support": {
             "chrome": {
               "version_added": "32"
@@ -3974,7 +3968,6 @@
       },
       "onseeking": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/GlobalEventHandlers/onseeking",
           "support": {
             "chrome": {
               "version_added": "32"
@@ -4228,7 +4221,6 @@
       },
       "onshow": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/GlobalEventHandlers/onshow",
           "support": {
             "chrome": {
               "version_added": false
@@ -4276,7 +4268,6 @@
       },
       "onsort": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/GlobalEventHandlers/onsort",
           "support": {
             "chrome": {
               "version_added": false
@@ -4324,7 +4315,6 @@
       },
       "onstalled": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/GlobalEventHandlers/onstalled",
           "support": {
             "chrome": {
               "version_added": "32"
@@ -4432,7 +4422,6 @@
       },
       "onsuspend": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/GlobalEventHandlers/onsuspend",
           "support": {
             "chrome": {
               "version_added": "32"
@@ -4492,7 +4481,6 @@
       },
       "ontimeupdate": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/GlobalEventHandlers/ontimeupdate",
           "support": {
             "chrome": {
               "version_added": "32"
@@ -4884,7 +4872,6 @@
       },
       "ontransitionrun": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/GlobalEventHandlers/ontransitionrun",
           "support": {
             "chrome": {
               "version_added": "87"
@@ -4946,7 +4933,6 @@
       },
       "ontransitionstart": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/GlobalEventHandlers/ontransitionstart",
           "support": {
             "chrome": {
               "version_added": "87"
@@ -5008,7 +4994,6 @@
       },
       "onvolumechange": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/GlobalEventHandlers/onvolumechange",
           "support": {
             "chrome": {
               "version_added": "32"
@@ -5068,7 +5053,6 @@
       },
       "onwaiting": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/GlobalEventHandlers/onwaiting",
           "support": {
             "chrome": {
               "version_added": "32"

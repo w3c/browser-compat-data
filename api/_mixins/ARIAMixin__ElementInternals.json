@@ -3,7 +3,6 @@
     "ElementInternals": {
       "ariaAtomic": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/ElementInternals/ariaAtomic",
           "support": {
             "chrome": {
               "version_added": "81"
@@ -51,7 +50,6 @@
       },
       "ariaAutoComplete": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/ElementInternals/ariaAutoComplete",
           "support": {
             "chrome": {
               "version_added": "81"
@@ -99,7 +97,6 @@
       },
       "ariaBusy": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/ElementInternals/ariaBusy",
           "support": {
             "chrome": {
               "version_added": "81"
@@ -147,7 +144,6 @@
       },
       "ariaChecked": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/ElementInternals/ariaChecked",
           "support": {
             "chrome": {
               "version_added": "81"
@@ -195,7 +191,6 @@
       },
       "ariaColCount": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/ElementInternals/ariaColCount",
           "support": {
             "chrome": {
               "version_added": "81"
@@ -243,7 +238,6 @@
       },
       "ariaColIndex": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/ElementInternals/ariaColIndex",
           "support": {
             "chrome": {
               "version_added": "81"
@@ -291,7 +285,6 @@
       },
       "ariaColSpan": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/ElementInternals/ariaColSpan",
           "support": {
             "chrome": {
               "version_added": "81"
@@ -339,7 +332,6 @@
       },
       "ariaCurrent": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/ElementInternals/ariaCurrent",
           "support": {
             "chrome": {
               "version_added": "81"
@@ -387,7 +379,6 @@
       },
       "ariaDescription": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/ElementInternals/ariaDescription",
           "support": {
             "chrome": {
               "version_added": "83"
@@ -435,7 +426,6 @@
       },
       "ariaDisabled": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/ElementInternals/ariaDisabled",
           "support": {
             "chrome": {
               "version_added": "81"
@@ -483,7 +473,6 @@
       },
       "ariaExpanded": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/ElementInternals/ariaExpanded",
           "support": {
             "chrome": {
               "version_added": "81"
@@ -531,7 +520,6 @@
       },
       "ariaHasPopup": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/ElementInternals/ariaHasPopup",
           "support": {
             "chrome": {
               "version_added": "81"
@@ -579,7 +567,6 @@
       },
       "ariaHidden": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/ElementInternals/ariaHidden",
           "support": {
             "chrome": {
               "version_added": "81"
@@ -627,7 +614,6 @@
       },
       "ariaKeyShortcuts": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/ElementInternals/ariaKeyShortcuts",
           "support": {
             "chrome": {
               "version_added": "81"
@@ -675,7 +661,6 @@
       },
       "ariaLabel": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/ElementInternals/ariaLabel",
           "support": {
             "chrome": {
               "version_added": "81"
@@ -723,7 +708,6 @@
       },
       "ariaLevel": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/ElementInternals/ariaLevel",
           "support": {
             "chrome": {
               "version_added": "81"
@@ -771,7 +755,6 @@
       },
       "ariaLive": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/ElementInternals/ariaLive",
           "support": {
             "chrome": {
               "version_added": "81"
@@ -819,7 +802,6 @@
       },
       "ariaModal": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/ElementInternals/ariaModal",
           "support": {
             "chrome": {
               "version_added": "81"
@@ -867,7 +849,6 @@
       },
       "ariaMultiLine": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/ElementInternals/ariaMultiLine",
           "support": {
             "chrome": {
               "version_added": "81"
@@ -915,7 +896,6 @@
       },
       "ariaMultiSelectable": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/ElementInternals/ariaMultiSelectable",
           "support": {
             "chrome": {
               "version_added": "81"
@@ -963,7 +943,6 @@
       },
       "ariaOrientation": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/ElementInternals/ariaOrientation",
           "support": {
             "chrome": {
               "version_added": "81"
@@ -1011,7 +990,6 @@
       },
       "ariaPlaceholder": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/ElementInternals/ariaPlaceholder",
           "support": {
             "chrome": {
               "version_added": "81"
@@ -1059,7 +1037,6 @@
       },
       "ariaPosInSet": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/ElementInternals/ariaPosInSet",
           "support": {
             "chrome": {
               "version_added": "81"
@@ -1107,7 +1084,6 @@
       },
       "ariaPressed": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/ElementInternals/ariaPressed",
           "support": {
             "chrome": {
               "version_added": "81"
@@ -1155,7 +1131,6 @@
       },
       "ariaReadOnly": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/ElementInternals/ariaReadOnly",
           "support": {
             "chrome": {
               "version_added": "81"
@@ -1203,7 +1178,6 @@
       },
       "ariaRelevant": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/ElementInternals/ariaRelevant",
           "support": {
             "chrome": {
               "version_added": "81"
@@ -1251,7 +1225,6 @@
       },
       "ariaRequired": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/ElementInternals/ariaRequired",
           "support": {
             "chrome": {
               "version_added": "81"
@@ -1299,7 +1272,6 @@
       },
       "ariaRoleDescription": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/ElementInternals/ariaRoleDescription",
           "support": {
             "chrome": {
               "version_added": "81"
@@ -1347,7 +1319,6 @@
       },
       "ariaRowCount": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/ElementInternals/ariaRowCount",
           "support": {
             "chrome": {
               "version_added": "81"
@@ -1395,7 +1366,6 @@
       },
       "ariaRowIndex": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/ElementInternals/ariaRowIndex",
           "support": {
             "chrome": {
               "version_added": "81"
@@ -1443,7 +1413,6 @@
       },
       "ariaRowSpan": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/ElementInternals/ariaRowSpan",
           "support": {
             "chrome": {
               "version_added": "81"
@@ -1491,7 +1460,6 @@
       },
       "ariaSelected": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/ElementInternals/ariaSelected",
           "support": {
             "chrome": {
               "version_added": "81"
@@ -1539,7 +1507,6 @@
       },
       "ariaSetSize": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/ElementInternals/ariaSetSize",
           "support": {
             "chrome": {
               "version_added": "84"
@@ -1587,7 +1554,6 @@
       },
       "ariaSort": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/ElementInternals/ariaSort",
           "support": {
             "chrome": {
               "version_added": "81"
@@ -1635,7 +1601,6 @@
       },
       "ariaValueMax": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/ElementInternals/ariaValueMax",
           "support": {
             "chrome": {
               "version_added": "81"
@@ -1683,7 +1648,6 @@
       },
       "ariaValueMin": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/ElementInternals/ariaValueMin",
           "support": {
             "chrome": {
               "version_added": "81"
@@ -1731,7 +1695,6 @@
       },
       "ariaValueNow": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/ElementInternals/ariaValueNow",
           "support": {
             "chrome": {
               "version_added": "81"
@@ -1779,7 +1742,6 @@
       },
       "ariaValueText": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/ElementInternals/ariaValueText",
           "support": {
             "chrome": {
               "version_added": "81"

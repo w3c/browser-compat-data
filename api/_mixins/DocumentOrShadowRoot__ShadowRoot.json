@@ -77,7 +77,6 @@
       },
       "adoptedStyleSheets": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/ShadowRoot/adoptedStyleSheets",
           "support": {
             "chrome": {
               "version_added": "73"
@@ -125,7 +124,6 @@
       },
       "elementFromPoint": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/ShadowRoot/elementFromPoint",
           "support": {
             "chrome": {
               "version_added": "53",
@@ -179,7 +177,6 @@
       },
       "elementsFromPoint": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/ShadowRoot/elementsFromPoint",
           "support": {
             "chrome": {
               "version_added": "53",
@@ -231,7 +228,6 @@
       },
       "fullscreenElement": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/ShadowRoot/fullscreenElement",
           "support": {
             "chrome": {
               "version_added": "71"
@@ -432,7 +428,6 @@
       },
       "pointerLockElement": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/ShadowRoot/pointerLockElement",
           "support": {
             "chrome": {
               "version_added": "53"
@@ -506,7 +501,6 @@
       },
       "styleSheets": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/ShadowRoot/styleSheets",
           "support": {
             "chrome": {
               "version_added": "53"

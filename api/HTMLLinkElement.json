@@ -144,7 +144,6 @@
       },
       "crossOrigin": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLLinkElement/crossOrigin",
           "support": {
             "chrome": {
               "version_added": "34"
@@ -719,7 +718,6 @@
       },
       "sizes": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLLinkElement/sizes",
           "support": {
             "chrome": {
               "version_added": "15",

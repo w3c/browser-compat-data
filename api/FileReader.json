@@ -611,7 +611,6 @@
       },
       "onloadend": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/FileReader/onloadend",
           "support": {
             "chrome": {
               "version_added": "7"
@@ -659,7 +658,6 @@
       },
       "onprogress": {
         "__compat": {
-          "mdn_url": "https://developer.mozilla.org/docs/Web/API/FileReader/onprogress",
           "support": {
             "chrome": {
               "version_added": "7"
