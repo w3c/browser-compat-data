@@ -5,7 +5,9 @@
 'use strict';
 const chalk = require('chalk');
 const fs = require('fs');
-const request = require('sync-request');
+const http = require('https');
+const fetch = require('node-fetch');
+const throttledQueue = require('throttled-queue');
 const path = require('path');
 const { platform } = require('os');
 const { promisify } = require('util');
@@ -18,28 +20,36 @@ const log = message => console.log(chalk`{cyan        ${message}}`);
 const warn = message => console.log(chalk`{yellow        ${message}}`);
 const error = message => console.log(chalk`{redBright        ${message}}`);
 
+const throttle = throttledQueue(20, 1000);
+
 const processUrl = (url, value) => {
   const options = {
     headers: { 'User-Agent': 'bcd-migration-script' },
-    gzip: false, // prevent Z_BUF_ERROR 'unexpected end of file'
-    followRedirects: true, // default
   };
-  const response = request('HEAD', url, options);
-  const statusCode = response.statusCode;
-  if (statusCode === 404) {
-    delete value.mdn_url;
-    log(`404 ${url}`);
-  } else if (response.headers['retry-after']) {
-    const seconds = response.headers['retry-after'];
-    warn(`${statusCode} ${url} (retrying after ${seconds} seconds)`);
-    sleep(seconds * 1000).then(processUrl(url, value));
-  } else if (statusCode === 504) {
-    warn(`504 ${url} (retrying after 10 seconds)`);
-    sleep(10 * 1000).then(processUrl(url, value));
-  } else if (statusCode >= 300) {
-    error(`${statusCode} ${url} (unexpected status code)`);
-  }
-  return response;
+  throttle(function() {
+  new Promise((resolve, reject) =>
+    http.get(url, response => {
+      const { statusCode } = response;
+      if (statusCode === 404) {
+        delete value.mdn_url;
+        log(`404 ${url}`);
+      } else if (response.headers['retry-after']) {
+        const seconds = response.headers['retry-after'];
+        warn(`${statusCode} ${url} (retrying after ${seconds} seconds)`);
+        sleep(seconds * 1000).then(processUrl(url, value));
+      } else if (response.headers.location) {
+        (processUrl('https://developer.mozilla.org' + response.headers.location, value));
+      } else if (statusCode === 504) {
+        warn(`504 ${url} (retrying after 10 seconds)`);
+        sleep(10 * 1000).then(processUrl(url, value));
+      } else if (statusCode >= 300) {
+        error(`${statusCode} ${url} (unexpected status code)`);
+      }
+      response.on('end', () => {
+        return value;
+      });
+    }));
+  });
 };
 
 const removeMdnUrl404s = (key, value) => {
